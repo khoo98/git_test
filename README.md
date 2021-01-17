@@ -1,0 +1,1 @@
+This is Khoo's first git project!
